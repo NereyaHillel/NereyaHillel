@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nereya Mantzur</h1>
+<h1 align="center">Hi 👋, I'm Nereya Hillel</h1>
 <h3 align="center">A passionate Software developer from Israel</h3>
 
 
