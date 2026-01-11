@@ -46,7 +46,6 @@
 </div>  
 <br/> 
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NereyaHillel&show_icons=true&locale=en&layout=compact" alt="nereyahillel" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NereyaHillel&show_icons=true&locale=en&layout=compact&ver=2" alt="nereyahillel" /></p>
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-drab-iota.vercel.app?user=nereyahillel&theme=solarized-light" alt="GitHub Streak" /></a>
-</p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-drab-iota.vercel.app?user=nereyahillel&theme=solarized-light&card_width=1000&border_radius=20" alt="GitHub Streak" /></a></p>
