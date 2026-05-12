@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nereya Hillel</h1>
-<h3 align="center">A passionate Software developer</h3>
-
-
-- 🔭 I’m currently working on **UI project**
-
-- 🌱 I’m currently learning **UI and Embedded Systems**
+<h3 align="center">A passionate Embedded Software Developer</h3>
 
 - 📫 How to reach me **nereya800@gmail.com**
 
